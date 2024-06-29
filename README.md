@@ -2,8 +2,8 @@
 # Task 1 :
 1. Anaconda Software downloading & installing.
 2. Variable declaration rule.
-3. Operators - types of operators & examples.
-4. Data Types & Methods -
+4. Operators - types of operators & examples.
+5. Data Types & Methods -
   Immutable data types - 1) Numbers. 2) String. 3)  Tuple.
    Mutable data types - 1) Set. 2) List. 3)  Dictionary.
 # Task 2 : 
